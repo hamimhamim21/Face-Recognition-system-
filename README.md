@@ -1,3 +1,3 @@
 # Face-Recognition-system
-Eigenface technology
+Design
 ![](Design.png)
