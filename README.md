@@ -1,2 +1,2 @@
-# Face-Recognition-system-
+# Face-Recognition-system
 Eigenface technology
